@@ -1,0 +1,23 @@
+/bin
+/obj
+/out
+/TestResults
+*.csproj.user
+*.suo
+*.user
+*.sln.docstates
+*.sln.opendocstates
+*.tmp
+/packages
+*.nupkg
+/ReSharper.*
+\_ReSharper.*
+/\_PublishedWebsites
+/ dumps
+*.dmp
+*.log
+*.jou
+*.vs
+*.DotSettings
+*.DotSettings.user
+/NuGetPackages
