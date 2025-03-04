@@ -1,6 +1,6 @@
 # .NET 10 Features Showcase
 
-This project demonstrates several new features introduced in .NET 10.
+This project demonstrates several new features introduced in .NET 10, preview 1 using C# 14.
 
 ## Downloading .NET 10
 
